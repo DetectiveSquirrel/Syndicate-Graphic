@@ -1,0 +1,9 @@
+D:\Tools\Path of Exile Tools\Macros\plugins\Syndicate Graphic\Syndicate Graphic.dll.config
+D:\Tools\Path of Exile Tools\Macros\plugins\Syndicate Graphic\Syndicate Graphic.dll
+D:\Tools\Path of Exile Tools\Macros\plugins\Syndicate Graphic\Syndicate Graphic.pdb
+D:\Coding\Source Files\PoeHUD Plugins\Syndicate Graphic\Syndicate Graphic\Syndicate Graphic\obj\Debug\Syndicate Graphic.csproj.CoreCompileInputs.cache
+D:\Coding\Source Files\PoeHUD Plugins\Syndicate Graphic\Syndicate Graphic\Syndicate Graphic\obj\Debug\Syndicate Graphic.dll
+D:\Coding\Source Files\PoeHUD Plugins\Syndicate Graphic\Syndicate Graphic\Syndicate Graphic\obj\Debug\Syndicate Graphic.pdb
+D:\Coding\Source Files\PoeHUD Plugins\Syndicate Graphic\Syndicate Graphic.dll.config
+D:\Coding\Source Files\PoeHUD Plugins\Syndicate Graphic\Syndicate Graphic.dll
+D:\Coding\Source Files\PoeHUD Plugins\Syndicate Graphic\Syndicate Graphic.pdb
